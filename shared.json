@@ -1,0 +1,28 @@
+{
+  "company": "MAAP India",
+  "website": "www.maap.in",
+  "companySupportPhone": "+91 83101 76622",
+  "companySupportEmail": "support@maap.in",
+  "tagline": "Measured to Fit, Made to Last",
+  "catalogues": [
+    {
+      "label": "Kitchen",
+      "url": "https://maap.in/product-category/kitchen-fittings-accessories/"
+    },
+    {
+      "label": "Wardrobe",
+      "url": "https://maap.in/product-category/wardrobe-hardware-fittings-accessories/"
+    },
+    {
+      "label": "Door Hardware",
+      "url": "https://maap.in/product-category/door-hardware-accessories/"
+    },
+    {
+      "label": "Aluminium",
+      "url": "https://maap.in/product-category/contemporary-aluminium-concept/"
+    }
+  ],
+  "instagram": "https://www.instagram.com/maapindia/",
+  "facebook": "https://www.facebook.com/maapindia/",
+  "linkedin": ""
+}
